@@ -3,7 +3,7 @@
 
 ![AppReminderView](https://github.com/AlineSilv/TaskRegister/assets/86479510/5f00c391-387e-4d81-ae7d-35a97510d702)
 
-## Functionalities
+## Functionalities Resumed 
 
   + Create in the database
   + Read in the database
@@ -11,6 +11,8 @@
   + Delete in the database
   + Click on  a reminder to edit and delete
   + Agrupment based on date registers!
+
+  (+ See more about at the end of the file... )
   
 ## Ambient Used :
 
