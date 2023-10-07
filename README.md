@@ -9,7 +9,8 @@
   + Read in the database
   + Update in the database
   + Delete in the database
-  + Click on reminder to edit and delete
+  + Click on  a reminder to edit and delete
+  + Agrupment based on date registers!
   
 ## Ambient Used :
 
