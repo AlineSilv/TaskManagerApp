@@ -44,7 +44,7 @@ justify-content: center;
 text-align: center; 
 border-radius:8px;
 font-weight:800;
-background-color: rgba(255, 105, 180, 0.1);
+background-color: rgba(255, 105, 180, 0.07);
 padding-top: 15px;
 text-align: ${(props) => (props.alignCenter ? "center" : "start")};
 width: ${(props) => (props.width ? props.width : "auto")};
