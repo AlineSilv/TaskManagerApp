@@ -12,7 +12,7 @@
   + Click on  a reminder to edit and delete
   + Agrupment based on date registers!
 
-  (+ See more about at the end of the file... )
+  (- See more about at the end of the file... )
   
 ## Ambient Used :
 
