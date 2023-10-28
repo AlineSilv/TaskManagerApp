@@ -1,7 +1,7 @@
 
 # ReminderApp | React |  Node | MySQL
 
-![AppReminderView](https://github.com/AlineSilv/TaskRegister/assets/86479510/5f00c391-387e-4d81-ae7d-35a97510d702)
+![taskmanagerapp](https://github.com/AlineSilv/TaskManagerApp/assets/86479510/87b9bf03-50f7-4a85-bc7d-514329b0e9e9)
 
 ## Functionalities Resumed 
 
